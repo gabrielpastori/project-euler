@@ -1,2 +1,2 @@
 # project-euler
-Project Euler solutions
+Project Euler solutions in C++, Python
